@@ -4,7 +4,16 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+        var andy= new Person("   AndY ANderson   ", 28);
+        var dwight= new Person("   AndY ANderson   ", 29);
+        //Override equals()
+        System.out.println(andy.equals(dwight)?"SAME!":"DIFFERENT!");
+        //robotTalk();
 
+
+    }
+
+    private static void robotTalk() {
         System.out.println("Hello friend. \nWhat's your name?");
         //creamos un objeto scanner
         Scanner scanner = new Scanner(System.in);
@@ -15,7 +24,6 @@ public class Main {
         }else{
             System.out.println("Hello " + input);
         }
-
         int age;
         do{
             System.out.println("How old are you? ;) ");
@@ -33,7 +41,6 @@ public class Main {
         }while(age<18);
         scanner = new Scanner(System.in);
         System.out.println("What's your favourite colour?");
-
         switch (scanner.nextLine().trim().toUpperCase()){
             case "RED" -> {
                 System.out.println("Fire walks with me");
@@ -52,8 +59,5 @@ public class Main {
             }
             default -> System.out.println("Oh you are so original");
         }
-
-
-
     }
 }
