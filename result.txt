@@ -1,0 +1,357 @@
+ Name: 1
+ Year:Janet Gaynor
+ Age:1928
+ Movie:22
+ Name: 2
+ Year:Mary Pickford
+ Age:1929
+ Movie:37
+ Name: 3
+ Year:Norma Shearer
+ Age:1930
+ Movie:28
+ Name: 4
+ Year:Marie Dressler
+ Age:1931
+ Movie:63
+ Name: 5
+ Year:Helen Hayes
+ Age:1932
+ Movie:32
+ Name: 6
+ Year:Katharine Hepburn
+ Age:1933
+ Movie:26
+ Name: 7
+ Year:Claudette Colbert
+ Age:1934
+ Movie:31
+ Name: 8
+ Year:Bette Davis
+ Age:1935
+ Movie:27
+ Name: 9
+ Year:Luise Rainer
+ Age:1936
+ Movie:27
+ Name:10
+ Year:Luise Rainer
+ Age:1937
+ Movie:28
+ Name:11
+ Year:Bette Davis
+ Age:1938
+ Movie:30
+ Name:12
+ Year:Vivien Leigh
+ Age:1939
+ Movie:26
+ Name:13
+ Year:Ginger Rogers
+ Age:1940
+ Movie:29
+ Name:14
+ Year:Joan Fontaine
+ Age:1941
+ Movie:24
+ Name:15
+ Year:Greer Garson
+ Age:1942
+ Movie:38
+ Name:16
+ Year:Jennifer Jones
+ Age:1943
+ Movie:25
+ Name:17
+ Year:Ingrid Bergman
+ Age:1944
+ Movie:29
+ Name:18
+ Year:Joan Crawford
+ Age:1945
+ Movie:40
+ Name:19
+ Year:Olivia de Havilland
+ Age:1946
+ Movie:30
+ Name:20
+ Year:Loretta Young
+ Age:1947
+ Movie:35
+ Name:21
+ Year:Jane Wyman
+ Age:1948
+ Movie:32
+ Name:22
+ Year:Olivia de Havilland
+ Age:1949
+ Movie:33
+ Name:23
+ Year:Judy Holliday
+ Age:1950
+ Movie:29
+ Name:24
+ Year:Vivien Leigh
+ Age:1951
+ Movie:38
+ Name:25
+ Year:Shirley Booth
+ Age:1952
+ Movie:54
+ Name:26
+ Year:Audrey Hepburn
+ Age:1953
+ Movie:24
+ Name:27
+ Year:Grace Kelly
+ Age:1954
+ Movie:25
+ Name:28
+ Year:Anna Magnani
+ Age:1955
+ Movie:48
+ Name:29
+ Year:Ingrid Bergman
+ Age:1956
+ Movie:41
+ Name:30
+ Year:Joanne Woodward
+ Age:1957
+ Movie:28
+ Name:31
+ Year:Susan Hayward
+ Age:1958
+ Movie:41
+ Name:32
+ Year:Simone Signoret
+ Age:1959
+ Movie:39
+ Name:33
+ Year:Elizabeth Taylor
+ Age:1960
+ Movie:29
+ Name:34
+ Year:Sophia Loren
+ Age:1961
+ Movie:27
+ Name:35
+ Year:Anne Bancroft
+ Age:1962
+ Movie:31
+ Name:36
+ Year:Patricia Neal
+ Age:1963
+ Movie:31
+ Name:37
+ Year:Julie Andrews
+ Age:1964
+ Movie:29
+ Name:38
+ Year:Julie Christie
+ Age:1965
+ Movie:25
+ Name:39
+ Year:Elizabeth Taylor
+ Age:1966
+ Movie:35
+ Name:40
+ Year:Katharine Hepburn
+ Age:1967
+ Movie:60
+ Name:41
+ Year:Katharine Hepburn
+ Age:1968
+ Movie:61
+ Name:42
+ Year:Barbra Streisand
+ Age:1969
+ Movie:26
+ Name:43
+ Year:Maggie Smith
+ Age:1970
+ Movie:35
+ Name:44
+ Year:Glenda Jackson
+ Age:1971
+ Movie:34
+ Name:45
+ Year:Jane Fonda
+ Age:1972
+ Movie:34
+ Name:46
+ Year:Liza Minnelli
+ Age:1973
+ Movie:27
+ Name:47
+ Year:Glenda Jackson
+ Age:1974
+ Movie:37
+ Name:48
+ Year:Ellen Burstyn
+ Age:1975
+ Movie:42
+ Name:49
+ Year:Louise Fletcher
+ Age:1976
+ Movie:41
+ Name:50
+ Year:Faye Dunaway
+ Age:1977
+ Movie:36
+ Name:51
+ Year:Diane Keaton
+ Age:1978
+ Movie:32
+ Name:52
+ Year:Jane Fonda
+ Age:1979
+ Movie:41
+ Name:53
+ Year:Sally Field
+ Age:1980
+ Movie:33
+ Name:54
+ Year:Sissy Spacek
+ Age:1981
+ Movie:31
+ Name:55
+ Year:Katharine Hepburn
+ Age:1982
+ Movie:74
+ Name:56
+ Year:Meryl Streep
+ Age:1983
+ Movie:33
+ Name:57
+ Year:Shirley MacLaine
+ Age:1984
+ Movie:49
+ Name:58
+ Year:Sally Field
+ Age:1985
+ Movie:38
+ Name:59
+ Year:Geraldine Page
+ Age:1986
+ Movie:61
+ Name:60
+ Year:Marlee Matlin
+ Age:1987
+ Movie:21
+ Name:61
+ Year:Cher
+ Age:1988
+ Movie:41
+ Name:62
+ Year:Jodie Foster
+ Age:1989
+ Movie:26
+ Name:63
+ Year:Jessica Tandy
+ Age:1990
+ Movie:80
+ Name:64
+ Year:Kathy Bates
+ Age:1991
+ Movie:42
+ Name:65
+ Year:Jodie Foster
+ Age:1992
+ Movie:29
+ Name:66
+ Year:Emma Thompson
+ Age:1993
+ Movie:33
+ Name:67
+ Year:Holly Hunter
+ Age:1994
+ Movie:36
+ Name:68
+ Year:Jessica Lange
+ Age:1995
+ Movie:45
+ Name:69
+ Year:Susan Sarandon
+ Age:1996
+ Movie:49
+ Name:70
+ Year:Frances McDormand
+ Age:1997
+ Movie:39
+ Name:71
+ Year:Helen Hunt
+ Age:1998
+ Movie:34
+ Name:72
+ Year:Gwyneth Paltrow
+ Age:1999
+ Movie:26
+ Name:73
+ Year:Hilary Swank
+ Age:2000
+ Movie:25
+ Name:74
+ Year:Julia Roberts
+ Age:2001
+ Movie:33
+ Name:75
+ Year:Halle Berry
+ Age:2002
+ Movie:35
+ Name:76
+ Year:Nicole Kidman
+ Age:2003
+ Movie:35
+ Name:77
+ Year:Charlize Theron
+ Age:2004
+ Movie:28
+ Name:78
+ Year:Hilary Swank
+ Age:2005
+ Movie:30
+ Name:79
+ Year:Reese Witherspoon
+ Age:2006
+ Movie:29
+ Name:80
+ Year:Helen Mirren
+ Age:2007
+ Movie:61
+ Name:81
+ Year:Marion Cotillard
+ Age:2008
+ Movie:32
+ Name:82
+ Year:Kate Winslet
+ Age:2009
+ Movie:33
+ Name:83
+ Year:Sandra Bullock
+ Age:2010
+ Movie:45
+ Name:84
+ Year:Natalie Portman
+ Age:2011
+ Movie:29
+ Name:85
+ Year:Meryl Streep
+ Age:2012
+ Movie:62
+ Name:86
+ Year:Jennifer Lawrence
+ Age:2013
+ Movie:22
+ Name:87
+ Year:Cate Blanchett
+ Age:2014
+ Movie:44
+ Name:88
+ Year:Julianne Moore
+ Age:2015
+ Movie:54
+ Name:89
+ Year:Brie Larson
+ Age:2016
+ Movie:26
+====================
