@@ -9,7 +9,7 @@ public class Main {
         //Override equals()
         System.out.println(andy.equals(dwight)?"SAME!":"DIFFERENT!");
         //robotTalk();
-
+        System.out.println(new Animal("T-Rex", "Carnivorous",true));
 
     }
 
